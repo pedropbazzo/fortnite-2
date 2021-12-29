@@ -12,7 +12,7 @@ final class DefaultAccount implements Account {
     private final String displayName;
 
     private DefaultAccount(final String accountId,
-                           final String displayName) {
+                           final String display????) {
         this.accountId = accountId;
         this.displayName = displayName;
     }
